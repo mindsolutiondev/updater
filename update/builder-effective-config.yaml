@@ -1,0 +1,24 @@
+directories:
+  output: dist
+  buildResources: build
+publish:
+  - provider: generic
+    url: 'http://localhost:9000/static'
+appId: com.github.martin.electronupdaterexample
+mac:
+  category: your.app.category.type
+  target:
+    - zip
+    - dmg
+linux:
+  category: Utility
+  icon: icons/icons
+  target:
+    - AppImage
+    - deb
+appImage:
+  systemIntegration: doNotAsk
+win:
+  target: nsis
+  verifyUpdateCodeSignature: false
+electronVersion: 5.0.12

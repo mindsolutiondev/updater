@@ -1,0 +1,8 @@
+version: 0.0.9
+files:
+  - url: electron-updater-example Setup 0.0.9.exe
+    sha512: 8E0HQVgW/q7SQPcj5Fo/kuuRztAntws9cqgEzv1LV656sQ5GImswFC6aasL4cI+8pdnHUH0bpjVnnwJ617QEug==
+    size: 42138585
+path: electron-updater-example Setup 0.0.9.exe
+sha512: 8E0HQVgW/q7SQPcj5Fo/kuuRztAntws9cqgEzv1LV656sQ5GImswFC6aasL4cI+8pdnHUH0bpjVnnwJ617QEug==
+releaseDate: '2019-12-15T15:30:01.627Z'
