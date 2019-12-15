@@ -3,7 +3,7 @@ directories:
   buildResources: build
 publish:
   - provider: generic
-    url: 'http://localhost:9000/static'
+    url: 'https://mindsolution-updater.herokuapp.com/static'
 appId: com.github.martin.electronupdaterexample
 mac:
   category: your.app.category.type
